@@ -3,7 +3,7 @@
 }
 /* Banner Section Styles */
 .banner{
-    background-image: url("/images/banner/banner2.png");
+    background-image: url("./images/banner/banner2.png");
     background-size: cover;
     padding: 180px;
 }
@@ -95,7 +95,7 @@ ul li:before {
     margin-left: 300px;
     margin-right: 250px;
     margin-bottom: 100px;
-    background-image: url(/images/watch.png);
+    background-image: url("./images/watch.png");
     background-repeat: no-repeat;
     border-radius: 10px;
 }
